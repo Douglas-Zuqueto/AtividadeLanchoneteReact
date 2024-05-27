@@ -1,0 +1,13 @@
+.container {
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 3rem;
+    font-family: "Merriweather", serif;
+}
+
+.message {
+    font-size: 2rem;
+    margin-bottom: 150px;
+}

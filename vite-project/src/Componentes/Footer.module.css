@@ -1,0 +1,30 @@
+.footer {
+    margin-top: 40px;
+    position: bottom;
+}
+
+.footer2{
+    padding: 20px 0;
+}
+
+.footer1, .infoFooter1 > Link{
+    background-color: var(--btOrange);
+    color: var(--btWhite);
+}
+
+.infoFooter1 {
+    font-size: 1.5rem;
+    border: 1px solid var(--btBlack);
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.infoFooter1 p {
+    margin: 20 10px 10px 10px;
+}
+
+.copyright {
+    color: var(--btBlack);
+}
